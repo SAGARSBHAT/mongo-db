@@ -1,0 +1,18 @@
+db.movies.insertMany([{
+    "_id" : 28,
+    "moviename" : "Welcome",
+    "rating" : "7.4",
+    "genere" : "Comedy",
+    "img" : "https://www.gtplanet.net/wp-content/uploads/2019/05/Ford-v-Ferrari-Movie-Poster.jpg",
+    "language" : "Hindi",
+    "year" : 2007
+    },
+    {
+        "_id" : 29,
+        "moviename" : "Gentleman",
+        "rating" : "8.4",
+        "genere" : "Suspense-Thriller",
+        "img" : "https://www.gtplanet.net/wp-content/uploads/2019/05/Ford-v-Ferrari-Movie-Poster.jpg",
+        "language" : "Kannada",
+        "year" : 2011
+    }])

@@ -1,0 +1,32 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "boss",
+  "main": "Assignment9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node first.js",
+    "dev": "nodemon first.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAGARSBHAT/JavaScript.git"
+  },
+  "keywords": [
+    "sagar"
+  ],
+  "author": "sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAGARSBHAT/JavaScript/issues"
+  },
+  "homepage": "https://github.com/SAGARSBHAT/JavaScript#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0",
+    "react-router-dom": "^5.2.0",
+    "zone.js": "^0.10.3"
+  }
+}
